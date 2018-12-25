@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://yagud.in/ru/posts/perception-of-probabiliry/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yagud.in/ru/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yagud.in/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://yagud.in/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://yagud.in/ru/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yagud.in/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://yagud.in/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://yagud.in/ru/posts/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yagud.in/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://yagud.in/ru/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://yagud.in/ru/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yagud.in/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://yagud.in/ru/tags/"
+                />
+  </url>
+  
+</urlset>
