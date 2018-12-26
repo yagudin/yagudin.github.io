@@ -30,4 +30,4 @@ link = "https://twitter.com/mishayagudin"
 [params]
 extraHead = '<script src="xxxx.js"></script>'
 
-exclude: ['hemes/yinyang/exampleSite/content/en/post/migrate-from-jekyll.md']
+exclude: ['themes/yinyang/exampleSite/content/en/post/migrate-from-jekyll.md']
