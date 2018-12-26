@@ -27,7 +27,7 @@ link = "https://github.com/yagudin"
 name = "Twitter"
 link = "https://twitter.com/mishayagudin"
 
-
 [params]
 extraHead = '<script src="xxxx.js"></script>'
 
+exclude: ['themes/yinyang/exampleSite']
