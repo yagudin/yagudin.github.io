@@ -8,7 +8,7 @@ _Впервые опубликовано на [Tilda](http://yagudin.tilda.ws/bl
 
 _Больше переводов Slate Star Codex в [группе ВКонтакте](https://vk.com/slatestarcodex) и на [lesswrong.ru](https://lesswrong.ru/)._
 
-Перевод [рассказа Скотта Александера](slatestarcodex.com/2015/10/15/it-was-you-who-made-my-blue-eyes-blue/).
+Перевод [рассказа Скотта Александера](http://slatestarcodex.com/2015/10/15/it-was-you-who-made-my-blue-eyes-blue/).
 
 
 # IT WAS YOU WHO MADE MY BLUE EYES BLUE
