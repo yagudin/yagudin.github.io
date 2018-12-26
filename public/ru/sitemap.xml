@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>yagud.in/ru/posts/perception-of-probabiliry/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>yagud.in/ru/posts/blue-eyes-blue/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>yagud.in/ru/posts/indignation-bot/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>yagud.in/ru/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="yagud.in/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="yagud.in/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>yagud.in/ru/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="yagud.in/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="yagud.in/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>yagud.in/ru/posts/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="yagud.in/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="yagud.in/ru/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>yagud.in/ru/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="yagud.in/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="yagud.in/ru/tags/"
+                />
+  </url>
+  
+</urlset>
