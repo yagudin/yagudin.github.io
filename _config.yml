@@ -26,7 +26,7 @@ github_username:  yagudin
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-minimal
-theme: jekyll-athena 
+remote_theme: jekyll-athena 
 # theme: jekyll-swiss
 
 
