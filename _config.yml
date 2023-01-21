@@ -24,8 +24,8 @@ description: >
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "yagud.in" 
-twitter_username: mishayagudin
-github_username: yagudin
+# twitter_username: mishayagudin
+# github_username: yagudin
 
 # Build settings
 markdown: kramdown
