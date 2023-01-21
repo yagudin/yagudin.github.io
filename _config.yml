@@ -34,6 +34,8 @@ theme: jekyll-theme-minimal
 # remote_theme: jekyll-athena 
 # theme: jekyll-swiss
 
+github:
+  is_project_page: false
 
 plugins:
   - jekyll-feed
