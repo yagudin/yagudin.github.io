@@ -16,13 +16,15 @@
 
 title: "Misha Yagudin"
 email: "misha@yagud.in"
-description: "I co-run Arb Research, a research consultancy. For our past work, see: https://arbresearch.com/work/ \n\nI co-run Samotsvety Forecasting. We are pretty good at darts: https://samotsvety.org/track-record/"
+description: >
+  I co-run Arb Research, a research consultancy. For our past work, see: [https://arbresearch.com/work/](https://arbresearch.com/work/)
+  I co-run Samotsvety Forecasting. We are pretty good at darts: [https://samotsvety.org/track-record/](https://samotsvety.org/track-record/)
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yagud.in" 
+url: "yagud.in" 
 twitter_username: mishayagudin
-github_username:  yagudin
+github_username: yagudin
 
 # Build settings
 markdown: kramdown
