@@ -21,7 +21,7 @@ description: >
   <br><br>
   I co-run Samotsvety Forecasting. We are pretty good at darts: <a href="https://samotsvety.org/track-record/">https://samotsvety.org/track-record/</a>.
   <br><br>
-  I co-founded and adivce Sage, a research non-profit focused on epistemics. We previously built <a href="https://www.quantifiedintuitions.org/">https://www.quantifiedintuitions.org{pastcasting,calibration}/</a>.
+  I co-founded and adivce Sage, a research non-profit focused on epistemics. We previously built <a href="https://www.quantifiedintuitions.org/">https://www.quantifiedintuitions.org/{pastcasting,calibration}/</a>.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "yagud.in" 
@@ -33,9 +33,6 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 # remote_theme: jekyll-athena 
 # theme: jekyll-swiss
-
-github:
-  is_project_page: false
 
 plugins:
   - jekyll-feed
