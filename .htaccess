@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^cal/(.*)$ https://calendly.com/yagudin/$1 [R=301,L]
