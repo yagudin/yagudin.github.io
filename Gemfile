@@ -16,6 +16,9 @@ gem "jekyll-theme-minimal"
 gem "jekyll-athena"
 gem "jekyll-swiss"
 
+# User added 2023-06-11: 
+gem 'jekyll-redirect-from'
+
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
