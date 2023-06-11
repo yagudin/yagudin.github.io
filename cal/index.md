@@ -1,4 +1,4 @@
 ---
 permalink: /cal/
-redirect_to:  https://calendly.com/yagudin/
+redirect_to: https://calendly.com/yagudin/
 ---
