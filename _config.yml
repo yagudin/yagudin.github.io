@@ -17,11 +17,11 @@
 title: "Misha Yagudin"
 email: "misha@yagud.in"
 description: >
-  I co-run Arb Research, a research consultancy. For our past work, see: <a href="https://arbresearch.com/work/">https://arbresearch.com/work/</a>.
+  <a href="https://arbresearch.com/work/">https://arbresearch.com/work/</a>.
   <br><br>
-  I co-run Samotsvety Forecasting. We are pretty good at darts: <a href="https://samotsvety.org/track-record/">https://samotsvety.org/track-record/</a>.
+  <a href="https://samotsvety.org/track-record/">https://samotsvety.org/track-record/</a>.
   <br><br>
-  I co-founded and advise <a href="https://www.quantifiedintuitions.org/">https://www.quantifiedintuitions.org/</a>, a research non-profit focused on epistemics.
+  <a href="https://sage-future.org/">https://sage-future.org/</a>
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "yagud.in" 
