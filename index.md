@@ -6,8 +6,6 @@ Online stuff:
 
 - [mike.yagudin@gmail.com](mailto:mike.yagudin@gmail.com)
 - [https://twitter.com/mishayagudin](https://twitter.com/mishayagudin)
-- [https://forum.effectivealtruism.org/users/misha_yagudin](https://forum.effectivealtruism.org/users/misha_yagudin)
-- [https://github.com/yagudin/](https://github.com/yagudin/)
 
 
 <!--
